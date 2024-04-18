@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Run
+git config --global user.email "joemthomas209@gmail.com"
+git config --global user.email "joemthomas76@yahoo.com"
+git config --global user.name "mrrobotoe42o"
+git config --global user.name "joemt@LAPTOP-OSQG7R05.(none)"
+Omit --global to set the identity only in this repository
